@@ -47,4 +47,4 @@ streamlit run dashboard.py
 \- Support for more coins + multiple fiat currencies (USD, EUR, etc.)  
 \- Add analytics like moving averages or volatility.  
 \- Deploy to Streamlit Cloud or Heroku so it’s accessible online.  
-\- Add a dark mode option.
+
