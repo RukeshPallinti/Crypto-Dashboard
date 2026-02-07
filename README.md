@@ -1,50 +1,30 @@
-📊 Cryptocurrency Dashboard (INR)
+# ⚠️ ARCHIVED PROJECT – Crypto Market Analytics (CSV Version)
 
-This is a crypto dashboard I built in PyCharm using Streamlit.  
-The main idea was to track the top 5 cryptocurrencies in INR and visualize them in an interactive way.  
-I kept it lightweight so it’s easy to run locally and can be extended later.
+This project was an **early prototype** of a cryptocurrency analytics dashboard built using **historical CSV data**.  
 
-# ✨ What it does
+It was the foundation for a more advanced, **live, API-driven platform**.  
 
-\- Shows live data for the top 5 coins (prices in INR).  
-\- Interactive charts to check price trends.  
-\- Uses Streamlit for the dashboard and Plotly/Seaborn for visuals.  
-\- Simple and clean UI – focused on functionality.
+---
 
-# 🛠️ Tech I used
+## ❌ Important Note
+This repository is **archived and read-only**.  
+It is no longer maintained or functional for live analysis.  
 
-\- Python 3.9+  
-\- Streamlit (for the dashboard)  
-\- Pandas & NumPy (for data handling)  
-\- Plotly & Seaborn (for charts)  
-\- PyCharm (where I developed this project)
+---
 
-# 📂 Project structure
+## ➡️ Active Version
+The full, upgraded project with **real-time market data, multi-dashboard analytics, and AI-driven insights** is available here:
 
-crypto-dashboard/  
-│-- dashboard.py -> Main Streamlit app  
-│-- requirements.txt -> All dependencies  
-│-- data/ 
-│-- README.docx -> This file
+[Crypto Market Analytics Platform (Live Version)](https://github.com/RukeshPallinti/crypto-hub)
 
-# ⚙️ How to run it
+---
 
-1\. Clone the repo:  
-git clone https://github.com/RukeshPallinti/crypto-dashboard.git 
-cd crypto-dashboard   
-<br/>2\. (Optional) Create a virtual environment:  
-python -m venv venv  
-source venv/bin/activate # On Windows: venv\\Scripts\\activate  
-<br/>3\. Install dependencies:  
-pip install -r requirements.txt  
-<br/>4\. Run the app:  
-streamlit run dashboard.py  
-<br/>The dashboard will open in your browser at: 👉 <http://localhost:8501>
+## Overview of Features in This Prototype
+- Top cryptocurrency analysis using CSV data
+- Basic price, market cap, and volatility visualizations
+- Early experiments with interactive charts in Streamlit
 
+---
 
-# 🔮 Things I want to add later
-
-\- Support for more coins + multiple fiat currencies (USD, EUR, etc.)  
-\- Add analytics like moving averages or volatility.  
-\- Deploy to Streamlit Cloud or Heroku so it’s accessible online.  
-
+Thank you for checking out the project.  
+For the latest and fully functional version, please see the link above.
